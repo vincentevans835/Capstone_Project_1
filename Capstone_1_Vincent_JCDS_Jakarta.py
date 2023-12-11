@@ -167,7 +167,7 @@ while(True):
             print("--------------------------------------")
             print("Menu Merubah Data Pasien")
             my_print()
-            ID = input("\nMasukkan Nama (Enter Untuk Kembali Ke Menu Utama) : ").upper()
+            ID = input("\nMasukkan ID (Enter Untuk Kembali Ke Menu Utama) : ").upper()
             if ID=="":
                 break
             while(True):
